@@ -1,17 +1,17 @@
 ### Bem vindo 👋
 
 ### Cursos Concluídos:
-Algoritimos e Lógica [SerTop]
-Introdução à Linguagem HTML [Diego Mariano]<br>
-Introdução à Linguagem CSS  [Diego Mariano]<br>
-Introdução à Banco de dados com MySQL & PHPMyAdmin [Diego Mariano]<br>
-Git e GitHub [Curso em Video]
-Curso HTML5 e CSS3 [Curso em Video]
-Data Science: Visualização de Dados com Python [Diego Mariano]<br>
-Ionic 3 Para Iniciantes [Charles França]<br>
-Sites Estáticos com Jekyll [Willian Vasconcellos]<br>
-Desenvolvedor Android Iniciante [Gabriel Ceron]<br>
-Curso Web Morderno Completo COD3R 2022 = ['JavaScript','Angular','React','Next','Vue','Node','HTML','CSS','jQuery','Bootstrap','Webpack','Gulp','MySql']<br>
+🗸Algoritimos e Lógica [SerTop]
+🗸Introdução à Linguagem HTML [Diego Mariano]<br>
+🗸Introdução à Linguagem CSS  [Diego Mariano]<br>
+🗸Introdução à Banco de dados com MySQL & PHPMyAdmin [Diego Mariano]<br>
+🗸Git e GitHub [Curso em Video]
+🗸Curso HTML5 e CSS3 [Curso em Video]
+🗸Data Science: Visualização de Dados com Python [Diego Mariano]<br>
+🗸Ionic 3 Para Iniciantes [Charles França]<br>
+🗸Sites Estáticos com Jekyll [Willian Vasconcellos]<br>
+🗸Desenvolvedor Android Iniciante [Gabriel Ceron]<br>
+🗸Curso Web Morderno Completo COD3R 2022 = ['JavaScript','Angular','React','Next','Vue','Node','HTML','CSS','jQuery','Bootstrap','Webpack','Gulp','MySql']<br>
 ### Estudando:
 Python 3 [Curso em Video]<br>
 Marketing Digital [Curso em Video]<br>

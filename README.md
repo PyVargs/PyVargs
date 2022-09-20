@@ -11,11 +11,11 @@ Data Science: Visualização de Dados com Python [Diego Mariano]<br>
 Ionic 3 Para Iniciantes [Charles França]<br>
 Sites Estáticos com Jekyll [Willian Vasconcellos]<br>
 Desenvolvedor Android Iniciante [Gabriel Ceron]<br>
-Curso Web Morderno Completo COD3R 2022 = ['JavaScript','Angular','React','Next','Vue','Node','HTML','CSS','jQuery','Bootstrap','Webpack','Gulp','MySql']
+Curso Web Morderno Completo COD3R 2022 = ['JavaScript','Angular','React','Next','Vue','Node','HTML','CSS','jQuery','Bootstrap','Webpack','Gulp','MySql']<br>
 ### Estudando:
-Python 3 [Curso em Video]
-Marketing Digital [Curso em Video]
-Javascript [Curso em Video]
+Python 3 [Curso em Video]<br>
+Marketing Digital [Curso em Video]<br>
+Javascript [Curso em Video]<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

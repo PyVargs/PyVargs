@@ -1,4 +1,17 @@
 ### Bem vindo 👋
+
+### Cursos Concluídos:
+Algoritimos e Lógica [SerTop]
+Introdução à Linguagem HTML [Diego Mariano]
+Introdução à Linguagem CSS  [Diego Mariano]
+Introdução à Banco de dados com MySQL & PHPMyAdmin [Diego Mariano]
+Data Science: Visualização de Dados com Python [Diego Mariano]
+Ionic 3 Para Iniciantes [Charles França]
+Sites Estáticos com Jekyll [Willian Vasconcellos]
+Desenvolvedor Android Iniciante [Gabriel Ceron]
+Curso Web Morderno Completo 2022 = ['JavaScript','Angular','React','Next','Vue','Node','HTML','CSS','jQuery','Bootstrap','Webpack','Gulp','MySql']
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mag-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

@@ -2,13 +2,13 @@
 
 ### Cursos Concluídos:
 Algoritimos e Lógica [SerTop]
-Introdução à Linguagem HTML [Diego Mariano]
-Introdução à Linguagem CSS  [Diego Mariano]
-Introdução à Banco de dados com MySQL & PHPMyAdmin [Diego Mariano]
-Data Science: Visualização de Dados com Python [Diego Mariano]
-Ionic 3 Para Iniciantes [Charles França]
-Sites Estáticos com Jekyll [Willian Vasconcellos]
-Desenvolvedor Android Iniciante [Gabriel Ceron]
+Introdução à Linguagem HTML [Diego Mariano]<br>
+Introdução à Linguagem CSS  [Diego Mariano]<br>
+Introdução à Banco de dados com MySQL & PHPMyAdmin [Diego Mariano]<br>
+Data Science: Visualização de Dados com Python [Diego Mariano]<br>
+Ionic 3 Para Iniciantes [Charles França]<br>
+Sites Estáticos com Jekyll [Willian Vasconcellos]<br>
+Desenvolvedor Android Iniciante [Gabriel Ceron]<br>
 Curso Web Morderno Completo 2022 = ['JavaScript','Angular','React','Next','Vue','Node','HTML','CSS','jQuery','Bootstrap','Webpack','Gulp','MySql']
 
 

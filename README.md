@@ -1,12 +1,13 @@
 ### Bem vindo 👋
+Analise e Desenvolvimento de Sistemas [Estácio de Sá]<br>
 
 ### Cursos Concluídos:
-🗸Algoritimos e Lógica [SerTop]
+🗸Algoritimos e Lógica [SerTop]<br>
 🗸Introdução à Linguagem HTML [Diego Mariano]<br>
 🗸Introdução à Linguagem CSS  [Diego Mariano]<br>
 🗸Introdução à Banco de dados com MySQL & PHPMyAdmin [Diego Mariano]<br>
-🗸Git e GitHub [Curso em Video]
-🗸Curso HTML5 e CSS3 [Curso em Video]
+🗸Git e GitHub [Curso em Video]<br>
+🗸Curso HTML5 e CSS3 [Curso em Video]<br>
 🗸Data Science: Visualização de Dados com Python [Diego Mariano]<br>
 🗸Ionic 3 Para Iniciantes [Charles França]<br>
 🗸Sites Estáticos com Jekyll [Willian Vasconcellos]<br>

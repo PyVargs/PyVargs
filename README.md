@@ -12,6 +12,7 @@ Analise e Desenvolvimento de Sistemas 2023
 🗸Ionic 3 Para Iniciantes [Charles França]<br>
 🗸Sites Estáticos com Jekyll [Willian Vasconcellos]<br>
 🗸Desenvolvedor Android Iniciante [Gabriel Ceron]<br>
+🗸Angular 9 Essencial COD3R [Leonardo Leitao]<br>
 🗸Curso Web Morderno Completo COD3R 2022 = ['JavaScript','Angular','React','Next','Vue','Node','HTML','CSS','jQuery','Bootstrap','Webpack','Gulp','MySql']<br>
 ### Estudando:
 Python 3 [Curso em Video]<br>

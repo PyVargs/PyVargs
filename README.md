@@ -18,6 +18,7 @@ Analise e Desenvolvimento de Sistemas 2023
 Python 3 [Curso em Video]<br>
 Marketing Digital [Curso em Video]<br>
 Javascript [Curso em Video]<br>
+MJV | School React<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

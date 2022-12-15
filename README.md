@@ -22,7 +22,7 @@ MJV | School React<br>
 
 :trophy:__*CERTIFICATES*__:trophy:
 ___
-| <img src= "https://i.imgur.com/neZ20SM.png" width="400" height="350">| 
+<img src= "https://i.imgur.com/neZ20SM.png" width="400" height="250">
 
 
 <div style="display: inline_block"><br>

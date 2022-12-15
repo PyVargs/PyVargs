@@ -14,11 +14,9 @@ Analise e Desenvolvimento de Sistemas 2023
 🗸Desenvolvedor Android Iniciante [Gabriel Ceron]<br>
 🗸Angular 9 Essencial COD3R [Leonardo Leitao]<br>
 🗸Curso Web Morderno Completo COD3R 2022 = ['JavaScript','Angular','React','Next','Vue','Node','HTML','CSS','jQuery','Bootstrap','Webpack','Gulp','MySql']<br>
+MJV | School React<br>
 ### Estudando:
 Python 3 [Curso em Video]<br>
-Marketing Digital [Curso em Video]<br>
-Javascript [Curso em Video]<br>
-MJV | School React<br>
 
 :trophy:__*CERTIFICATES*__:trophy:
 ___

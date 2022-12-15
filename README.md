@@ -20,6 +20,11 @@ Marketing Digital [Curso em Video]<br>
 Javascript [Curso em Video]<br>
 MJV | School React<br>
 
+:trophy:__*CERTIFICATES*__:trophy:
+___
+| <img src= "https://i.imgur.com/neZ20SM.png" width="400" height="350">| 
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mag-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

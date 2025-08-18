@@ -1,5 +1,5 @@
 # 👋 Bem-vindo ao meu perfil!
-💻 Analista e Desenvolvedor de Sistemas | Turma 2023  
+💻 Analista e Desenvolvedor de Sistemas
 
 ---
 

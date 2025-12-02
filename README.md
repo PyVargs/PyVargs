@@ -2,8 +2,7 @@
 💻 Analista e Desenvolvedor de Sistemas
 
 ---
-
-## 🎓 Cursos Concluídos
+## 🎓 Cursos
 - ✔️ Algoritmos e Lógica — *SerTop*  
 - ✔️ Introdução à Linguagem **HTML/CSS** — *Diego Mariano*  
 - ✔️ Banco de Dados com **MySQL & PHPMyAdmin** — *Diego Mariano*  
@@ -17,12 +16,7 @@
 - ✔️ **Curso Web Moderno Completo (COD3R 2022)**  
   *(JavaScript, Angular, React, Next, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL)*  
 - ✔️ **MJV | School React**
-
----
-
-## 📚 Atualmente Estudando
-- 🐍 **Python 3** — *Curso em Vídeo*
-
+- ✔️ 🐍 **Python 3** — *Curso em Vídeo*
 ---
 
 ## 🏆 Certificados
